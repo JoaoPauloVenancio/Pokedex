@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundedCardGrayBorder">
+        <item name="strokeColor">@color/primary_divider_color</item>
+        <item name="strokeWidth">@dimen/size_1dp</item>
+        <item name="cardCornerRadius">@dimen/size_15dp</item>
+        <item name="cardElevation">@dimen/size_0dp</item>
+    </style>
+
+    <style name="CircledImageView">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
